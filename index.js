@@ -1,2 +1,3 @@
 const app = "I don't do much."
-destructivelyAppendKitten.push
+
+var kittens = ["Milo", "Otis", "Garfield"]
